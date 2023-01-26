@@ -1,6 +1,6 @@
 # quadratic-funding
 
-SBT_v2 is an implementation of the equations at the end of "Adjusting Quadratic Mechanisms for Pre-Existing Cooperation" of the paper "Decentralized Society: Finding Web3’s Soul" by E. Glen Weyl, Puja Ohlhaver, and Vitalik Buterin.
+SBT is an implementation of the equations at the end of "Adjusting Quadratic Mechanisms for Pre-Existing Cooperation" of the paper "Decentralized Society: Finding Web3’s Soul" by E. Glen Weyl, Puja Ohlhaver, and Vitalik Buterin.
 
 SBT_simulation is a synthetic construction of contributions and affiliations of a set of agents, and a simulation of one of the matching algorithms on this dataset, before and after setting one agent’s voice to copy that of another (total coordination). There is a lot more that can be simulated, this is just a simple example.
 
